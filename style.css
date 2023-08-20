@@ -48,7 +48,7 @@
     margin-bottom: 0.6em;
   }
   .container input:focus {
-    border-color: #6e57e0;
+    border-color: #3f1f5f;
   }
   .total-amount-container,
   .user-amount-container {
@@ -58,7 +58,7 @@
     box-shadow: 0 0.6em 1.2em rgba(28, 0, 80, 0.06);
   }
   .output-container {
-    background-color: #6e57e0;
+    background-color: #3f1f5f;
     color: #ffffff;
     border-radius: 0.3em;
     box-shadow: 0 0.6em 1.2em rgba(28, 0, 80, 0.06);
@@ -78,7 +78,7 @@
   .submit {
     font-size: 1em;
     margin-top: 0.8em;
-    background-color: #6e57e0;
+    background-color: #3f1f5f;
     border: none;
     outline: none;
     color: #ffffff;
@@ -94,7 +94,7 @@
   }
   .sublist-content {
     width: 100%;
-    border-left: 0.3em solid #6e57e0;
+    border-left: 0.3em solid #3f1f5f;
     margin-bottom: 0.6em;
     padding: 0.5em 1em;
     display: grid;
@@ -131,7 +131,7 @@
     cursor: pointer;
     margin-right: 1.5em;
     border: none;
-    color: #6e57e0;
+    color: #3f1f5f;
   }
   @media screen and (max-width: 600px) {
     .wrapper {
